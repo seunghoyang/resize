@@ -12,7 +12,6 @@ window.onload = function() {
 var desiredWidth = 1920;
 var desiredHeight = 1080;
 
-
 // Colors
 var green = "#12A83A";
 var grey = "#aaa"
@@ -36,7 +35,6 @@ $(window).resize(function() {
 	// Variables for window dimensions
 	var ww = $(window).width();
 	var wh = $(window).height();
-
 
 	// Boolean
 	var color;
